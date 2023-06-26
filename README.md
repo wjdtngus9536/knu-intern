@@ -2,4 +2,4 @@
 
 | No.| Link | Description |
 |:--:|:--|:--|
-| 01 | [기안](./draftProposal)               | Markdown usage |
+| 01 | [draftProposal](./draftProposal)               |  |
